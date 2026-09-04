@@ -3,3 +3,4 @@
 [default.extend-words]
 atspi = "atspi"
 accesskit = "accesskit"
+ratatui = "ratatui"
