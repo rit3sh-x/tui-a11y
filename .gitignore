@@ -1,0 +1,6 @@
+target
+*.log
+*.rs.rustfmt
+.idea/
+.env
+*.code-workspace
